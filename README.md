@@ -17,7 +17,7 @@ Features:
 `/disco` toggles disco lighting around you on/off
 
 ### Block Mining
-`/k-mine` toggles the function to press the `k` key to mine all blocks within 10 blocks of you. When on, press (and hold) `k` to mine at will.
+`/boxmine` toggles the function to press the `k` key to mine all blocks within 10 blocks of you. When on, press (and hold) `k` to mine at will.
 
 `/destroy_world yes` mines all blocks in the world (that are able to be mined) when the user clicks `Yes` to a confirmation that appears. This lags a lot, and when it's done we reccomend saving and reloading your world asap.
 
