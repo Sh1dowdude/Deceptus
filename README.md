@@ -42,4 +42,4 @@ Features:
 
 
 
-* This is only saved per-session, due to the fact that the client does not edit save files to preserve files between hacked and vanilla Terraria.
+\* This is only saved per-session, due to the fact that the client does not edit save files to preserve files between hacked and vanilla Terraria.
