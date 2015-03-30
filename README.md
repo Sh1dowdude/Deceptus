@@ -1,5 +1,5 @@
 # Novus _Deceptus_
-Novus _Deceptus_ is a hacked client for Terraria. Original code copyright ReLogic (New code uploaded within the week)
+Novus _Deceptus_ is a hacked client for Terraria. Original code copyright ReLogic. Please not that this cient _will not work_ unless you have bought and played (at least once) Terraria, as this is not a _cracked client_.
 
 
 
