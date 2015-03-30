@@ -30,7 +30,7 @@ Features:
 ### Cheats
 `/heal` heals the player of mana and health.
 
-`/give <item ID>` gives the player an item with the id of `<item ID>`.
+`/give <item ID>` gives the player an item with the id of `<item ID>`. `<item ID>` can be the item name (no spaces) or it's numeric ID.
 
 `/god` toggles `godmode` on/off. See `godmode.md` for list of things it does.
 
