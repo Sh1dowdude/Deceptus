@@ -5,11 +5,11 @@
 
 `/projectile <projectile ID>` - Sends a projectile that you select in all directions
 
-`/superjump` - Jump to extremly high hights (Toggle)
+`/jump <height>` - Sets jump height
 
 `/worldmsg <message>` - Project giant message to all player(s) on server
 
-`/cursor_unlock` - Move cursor to see across the whole world (Toggle)
+`/mousebounds` - Move cursor to see across the whole world (Toggle)
 
 `/instahouse <type>` - Makes an instahouse around you
 
