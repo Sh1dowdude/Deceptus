@@ -3,6 +3,8 @@
 
 `Kill aura` - Kills all player(s) in the area
 
+`Projectile Spam` - Sends a projectile that you select in all directions
+
 `Super Jump` - Jump to extremly high hights
 
 `Message Projector` - Project giant message to all player(s) on server
