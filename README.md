@@ -8,7 +8,7 @@ Novus _Deceptus_ is a hacked client for Terraria. Original code copyright ReLogi
 
 
 
-Features:
+Current Features (BETA v0.0.0.1):
 
 
 
