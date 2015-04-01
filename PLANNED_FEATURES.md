@@ -17,7 +17,7 @@
 
 `Troll` - Spirts 10000 blocks of sand in the direction you are pointing (Point to destroy opponent)
 
-###Idea(s) For Client_
+###Idea(s) For Client
 
 Add custom GUI when in game
 
