@@ -1,5 +1,5 @@
 
-###FEATURES AND COMMAND(S)
+###Planned Commands
 
 `/aurora` - Kills all player(s) in the area (Toggle)
 
@@ -33,7 +33,7 @@
 
 `/ammo` - Infinite Ammo (Toggle)
 
-###Idea(s) For Client
+###Planned Features
 
 Add custom GUI when in game
 
