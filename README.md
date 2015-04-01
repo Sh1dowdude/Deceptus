@@ -2,6 +2,11 @@
 Novus _Deceptus_ is a hacked client for Terraria. Original code copyright ReLogic. Please note that this client _will not work_ unless you have bought and played (at least once) Terraria, as this is not a _cracked client_.
 
 
+[Installation tutorial](https://github.com/NovusGames/Deceptus/blob/master/INSTALLATION.md)
+
+[Planned Features](https://github.com/NovusGames/Deceptus/blob/master/PLANNED_FEATURES.md)
+
+
 
 Features:
 
@@ -32,7 +37,7 @@ Features:
 
 `/give <item ID>` gives the player an item with the id of `<item ID>`. `<item ID>` can be the item name (no spaces) or it's numeric ID.
 
-`/god` toggles `godmode` on/off. See `godmode.md` for list of things it does.
+`/god` toggles `godmode` on/off. See [godmode.md](https://github.com/NovusGames/Deceptus/blob/master/GODMODE.md) for list of things it does.
 
 `/tp` teleports your player to your mouse.
 
