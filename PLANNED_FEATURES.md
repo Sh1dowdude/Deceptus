@@ -29,7 +29,7 @@
 
 `/autoreuse` - Auto-Reuse of all items (Toggle)
 
-`/workbench` - Enables the crafting of anything without a crafting table
+`/workbench` - Enables the crafting of anything without a crafting table (Toggle)
 
 `/ammo` - Infinite Ammo (Toggle)
 
