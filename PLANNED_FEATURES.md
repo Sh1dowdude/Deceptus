@@ -1,26 +1,42 @@
 
 ###FEATURES AND COMMAND(S)
 
-`Kill aura` - Kills all player(s) in the area
+`/aurora` - Kills all player(s) in the area (Toggle)
 
-`Projectile Spam` - Sends a projectile that you select in all directions
+`/projectile <projectile ID>` - Sends a projectile that you select in all directions
 
-`Super Jump` - Jump to extremly high hights
+`/superjump` - Jump to extremly high hights (Toggle)
 
-`Message Projector` - Project giant message to all player(s) on server
+`/worldmsg <message>` - Project giant message to all player(s) on server
 
-`View Master` - Move cursor to see across the whole world
+`/cursor_unlock` - Move cursor to see across the whole world (Toggle)
 
-`Invisibility` - Invisible to all
+`/instahouse <type>` - Makes an instahouse around you
 
-`Instahouse` - Makes an instahouse around you
+`/sandtroll` - Spirts 10000 blocks of sand in the direction you are pointing (Point to destroy opponent)
 
-`Troll` - Spirts 10000 blocks of sand in the direction you are pointing (Point to destroy opponent)
+`/itempickup` - Item pickup (Toggle)
+
+`/gps` - GPS data (Toggle)
+
+`/instantrespawn` - Instant Respawn (Toggle)
+
+`/noclip` - No-Clip (Toggle)
+
+`/meleespeed <speed>` - Sets melee speed
+
+`/movespeed <speed>` - Sets movement speed
+
+`/autoreuse` - Auto-Reuse of all items (Toggle)
+
+`/workbench` - Enables the crafting of anything without a crafting table
+
+`/ammo` - Infinite Ammo (Toggle)
 
 ###Idea(s) For Client
 
 Add custom GUI when in game
 
-Amazing startup screen of "Novus Deceptus" with logo before entering start menu
+Startup screen of "Novus _Deceptus_" with logo before entering start menu
 
 Custom menu items (Ex. Donate, Website, Updates, etc.)
