@@ -21,4 +21,4 @@ Add custom GUI when in game
 
 Amazing startup screen of "Novus Deceptus" with logo before entering start menu
 
-Custom Menu screen with more features than just "Singleplayer" and "Multiplayer" ( EX: DONATE, WEBSITE, ETC ETC )
+Custom menu items (Ex. Donate, Website, Updates, etc.)
